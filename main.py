@@ -4,7 +4,6 @@ import contract
 import time
 
 def main():
-    time.sleep(15)
     app = QApplication([])
     contract.contract(app)
     sys.exit(app.exec_())
