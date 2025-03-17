@@ -33,6 +33,7 @@ body {
     sect {
         border: #fff solid 5px;
         display: flex;
+        justify-content: space-between;
         margin: 1rem;
         padding: 1rem;
         align-items: center;
